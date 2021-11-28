@@ -47,3 +47,10 @@ li a:hover{
     float: left;
     margin:0;
 }
+.skl {
+    background-color: mintcream;
+    border: 5px solid black;
+}
+.skl:hover{
+    zoom:150%
+}
