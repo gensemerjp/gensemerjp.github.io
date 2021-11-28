@@ -22,10 +22,7 @@ nav{
     width: 200px;
     box-shadow: 0 4px 8px 0 rgba(100,0 ,0, 0.8)
 }
-#Information:hover{
-    transition:transform .5s ease-in-out;
-    transform: rotate(720deg) scale(2)
-}
+
 ul{
     list-style-type: none;
     padding: 0;
