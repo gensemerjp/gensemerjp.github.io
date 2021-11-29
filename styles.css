@@ -1,5 +1,5 @@
 body {
-    /*background-color:blue;*/
+    background-color:lightblue;
 
 }
 
@@ -10,7 +10,7 @@ div{
 nav{
     float: left;
     height: 100vh;
-    background-color: crimson;
+    background-color: darkblue;
     padding: 15px;
 }
 
@@ -31,7 +31,7 @@ ul{
 
 li a{
     background-color:mintcream;
-    color: crimson;
+    color: darkblue;
     padding: 1em 1.5em;
     display:block;
     text-decoration:none;
@@ -50,7 +50,12 @@ li a:hover{
 .skl {
     background-color: mintcream;
     border: 5px solid black;
+    padding: 5px;
 }
 .skl:hover{
     zoom:150%
+}
+.gitlink {
+   text-decoration: none;
+   color:darkblue;
 }
